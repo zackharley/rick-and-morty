@@ -1,6 +1,6 @@
 # rick-and-morty [![Build Status](https://travis-ci.org/zackharley/rick-and-morty.svg?branch=master)](https://travis-ci.org/zackharley/rick-and-morty) {
 
-> Get [Rick and Morty gifs][1]
+> Get [Rick and Morty][1] gifs
 
 The gif list is just a [JSON file][2] and can be used wherever.
 
@@ -38,6 +38,7 @@ Random name.
 ## License
 
 2016 © [Zack Harley][4]
+> :fork_and_knife: Fork away!
 
 # }
 
