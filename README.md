@@ -4,7 +4,7 @@
 
 The gif list is just a [JSON file][2] and can be used wherever.
 
-![Rick and Morty][rick-and-morty.gif]
+![Rick and Morty](rick-and-morty.gif)
 
 ## Install
 
@@ -33,16 +33,15 @@ Random name.
 
 ## Related
 
- - [rick-and-morty-cli][4] - CLI for this module
+ - [rick-and-morty-cli][3] - CLI for this module
 
 ## License
 
-2016 © [Zack Harley][5]
+2016 © [Zack Harley][4]
 
 # }
 
 [1]: https://en.wikipedia.org/wiki/Rick_and_Morty
 [2]: https://github.com/zackharley/rick-and-morty/blob/master/rick-and-morty.json
-[3]:
-[4]: https://github.com/zackharley/rick-and-morty-cli
-[5]: https://github.com/zackharley
+[3]: https://github.com/zackharley/rick-and-morty-cli
+[4]: https://github.com/zackharley
