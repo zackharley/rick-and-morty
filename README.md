@@ -1,4 +1,4 @@
-# rick-and-morty {
+# rick-and-morty [![Build Status](https://travis-ci.org/zackharley/rick-and-morty.svg?branch=master)](https://travis-ci.org/zackharley/rick-and-morty) {
 
 > Get [Rick and Morty gifs][1]
 
