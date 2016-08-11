@@ -1,0 +1,30 @@
+{
+  "name": "rick-and-morty",
+  "version": "1.0.0",
+  "description": "Rick and Morty GIFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [
+    "rick",
+    "morty",
+    "rick",
+    "and",
+    "morty",
+    "gif",
+    "url",
+    "random",
+    "array",
+    "list"
+  ],
+  "author": "Zack Harley",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  }
+}
